@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewApp</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main"></string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_archive">Save</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_undo">undo</string>
+    <string name="menu_redo">redo</string>
+    <string name="menu_text">text</string>
+    <string name="menu_eraser">Eraser</string>
+    <string name="menu_pencil">Pencil</string>
+</resources>
